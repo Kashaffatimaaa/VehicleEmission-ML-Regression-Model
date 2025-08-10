@@ -76,19 +76,7 @@ Make sure to install and configure ffmpeg on your system and update the mpl.rcPa
 
 Run the script
 bash
-
 python vehicle_emission_regression.py
-
-Example Visualization:
-
-Histogram Example
-
-<img width="1488" height="396" alt="image" src="https://github.com/user-attachments/assets/2eb2dfc1-268f-4f42-9d82-76bb2764b3f3" />
-
-
-3D Regression Plane (Static)
-
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/3f8ee5b7-9130-452b-b432-ec65b6079519" />
 
 License
 
